@@ -1,0 +1,5 @@
+full_name,email,ip_address,date_of_birth,created_at,consent_given
+Alice Johnson,alice@example.com,192.168.1.10,1985-06-15,2016-04-12,TRUE
+Bob Smith,bob@example.com,10.0.0.5,1978-11-02,2013-08-24,FALSE
+Carol White,carol@example.com,172.16.0.2,1990-01-10,2020-02-14,
+
